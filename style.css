@@ -109,6 +109,7 @@ body {
 .country > p {
   margin-top: 80px;
   margin-bottom: 50px;
+  margin-left: 0.6rem;
 }
 .footer-list > ul {
   text-decoration: none;
